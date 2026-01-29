@@ -1,0 +1,14 @@
+C:\Users\userprf\source\repos\poo-exercice-1\exo-12\bin\Debug\net9.0\exo-12.exe
+C:\Users\userprf\source\repos\poo-exercice-1\exo-12\bin\Debug\net9.0\exo-12.deps.json
+C:\Users\userprf\source\repos\poo-exercice-1\exo-12\bin\Debug\net9.0\exo-12.runtimeconfig.json
+C:\Users\userprf\source\repos\poo-exercice-1\exo-12\bin\Debug\net9.0\exo-12.dll
+C:\Users\userprf\source\repos\poo-exercice-1\exo-12\bin\Debug\net9.0\exo-12.pdb
+C:\Users\userprf\source\repos\poo-exercice-1\exo-12\obj\Debug\net9.0\exo-12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\source\repos\poo-exercice-1\exo-12\obj\Debug\net9.0\exo-12.AssemblyInfoInputs.cache
+C:\Users\userprf\source\repos\poo-exercice-1\exo-12\obj\Debug\net9.0\exo-12.AssemblyInfo.cs
+C:\Users\userprf\source\repos\poo-exercice-1\exo-12\obj\Debug\net9.0\exo-12.csproj.CoreCompileInputs.cache
+C:\Users\userprf\source\repos\poo-exercice-1\exo-12\obj\Debug\net9.0\exo-12.dll
+C:\Users\userprf\source\repos\poo-exercice-1\exo-12\obj\Debug\net9.0\refint\exo-12.dll
+C:\Users\userprf\source\repos\poo-exercice-1\exo-12\obj\Debug\net9.0\exo-12.pdb
+C:\Users\userprf\source\repos\poo-exercice-1\exo-12\obj\Debug\net9.0\exo-12.genruntimeconfig.cache
+C:\Users\userprf\source\repos\poo-exercice-1\exo-12\obj\Debug\net9.0\ref\exo-12.dll
